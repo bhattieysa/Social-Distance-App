@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664036833496",
+    "project_id": "socialdistance-dbf0d",
+    "storage_bucket": "socialdistance-dbf0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664036833496:android:a8a83e42669c8115717fad",
+        "android_client_info": {
+          "package_name": "com.devsoft.socialdistanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664036833496-ma6rantdg7r3v5rkepqikhbpa905tpce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWHFBkOZ-rQsHlty5IfDwpylUwfVLJvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664036833496-ma6rantdg7r3v5rkepqikhbpa905tpce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
